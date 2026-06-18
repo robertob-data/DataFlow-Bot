@@ -59,7 +59,7 @@ Ele resolve o problema de coleta manual e análise demorada de catálogos, trans
 git clone https://github.com/robertob-data/dataflow-bot
 
 # entrar na pasta
-cd seu-repo
+cd dataflow-bot
 
 # criar ambiente virtual (opcional)
 python -m venv venv
