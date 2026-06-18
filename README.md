@@ -13,7 +13,7 @@ Ele resolve o problema de coleta manual e análise demorada de catálogos, trans
 
 ## 🚧 Status do projeto
 
-🟢 Finalizado (versão funcional de estudo e portfólio)
+🟢 Finalizado
 
 ---
 
