@@ -56,7 +56,7 @@ Ele resolve o problema de coleta manual e análise demorada de catálogos, trans
 
 ```bash
 # clonar o repositório
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/robertob-data/dataflow-bot
 
 # entrar na pasta
 cd seu-repo
