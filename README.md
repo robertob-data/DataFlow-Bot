@@ -1,4 +1,4 @@
-# 🕷️ Lead-Extractor-Bot
+# 🕷️ 📦 Product-Extractor bot
 
 
 
@@ -58,10 +58,10 @@ Ele resolve o problema de coleta manual e análise demorada de catálogos, trans
 
 ```bash
 # clonar o repositório
-git clone https://github.com/robertob-data/dataflow-bot
+git clone https://github.com/robertob-data/-Product-Extractor
 
 # entrar na pasta
-cd dataflow-bot
+cd -Product-Extractor
 
 # criar ambiente virtual (opcional)
 python -m venv venv
